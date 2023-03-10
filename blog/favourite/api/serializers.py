@@ -19,3 +19,9 @@ class FavouriteAPISerializer(ModelSerializer):
     class Meta:
         model = Favourite
         fields = ('content',)
+
+
+
+
+
+
